@@ -1,4 +1,4 @@
-# Octave-Simulator-in-C
+# Octave-Simulator
 
 In fisierul functions.c apelam functiile utilizate in rezolvarea taskurilor,
 iar fisierul tasks.c contine functiile care corespund fiecarui task. 
